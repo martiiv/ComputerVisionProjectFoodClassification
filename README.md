@@ -22,3 +22,10 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 **18.03.2021 Git repo and research** 
 - Initialized git repository
 - Started looking into different image segmentation methods
+
+**23.03.2021 Research**
+- Continued researching basic image segmentation methods
+
+**05.04.2021** 
+- Added in basic code structure (one file for testing and one for code)
+- Added stock food images for testing 
