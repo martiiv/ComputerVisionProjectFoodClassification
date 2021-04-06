@@ -33,3 +33,4 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 
 **06.04.2021**
 - Working with image thresholder
+- Started working on project report   
