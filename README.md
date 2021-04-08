@@ -29,3 +29,8 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 **05.04.2021** 
 - Added in basic code structure (one file for testing and one for code)
 - Added stock food images for testing 
+- Updated repo with issues
+
+**06.04.2021**
+- Working with image thresholder
+- Started working on project report   
