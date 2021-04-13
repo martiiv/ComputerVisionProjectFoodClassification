@@ -3,6 +3,7 @@
 
 image = imread('images/ChickenSalad.jpg');
 
-image = RedGreen(image);
-imshow(image)
+green = Green(image);
+red = Red(image);
 
+imshow(red)
