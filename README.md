@@ -39,4 +39,6 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 - Decided to use image thresholder to classify colors
 - Continued work on project report 
 
-**IDK**
+**13.04.2021**
+- Working with project report
+- Added more color filters to script
