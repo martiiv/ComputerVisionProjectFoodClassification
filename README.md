@@ -42,3 +42,13 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 **13.04.2021**
 - Working with project report
 - Added more color filters to script
+
+**19.04.2021**
+- Worked on project report
+- Prepared test materials
+- Prepare questions
+
+**20.04.2021**
+- Worked on project report
+- Prepare question
+- Started powerpoint presentation
