@@ -52,3 +52,8 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 - Worked on project report
 - Prepare question
 - Started powerpoint presentation
+
+**21.04.2021**
+- Worked on project report
+- Attempting to add morphological opening and closing to the result images
+- 
