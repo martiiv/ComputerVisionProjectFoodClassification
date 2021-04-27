@@ -59,3 +59,7 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 **22.04.2021** 
 - Finished script 
 - Testing
+
+**27.04.2021**
+- Prepared report for review
+- Tidyed up git repo
