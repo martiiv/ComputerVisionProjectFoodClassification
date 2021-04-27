@@ -54,6 +54,12 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 - Started powerpoint presentation
 
 **21.04.2021**
-- Worked on project report
-- Attempting to add morphological opening and closing to the result images
-- 
+- Added finishing touches to the script (post processing etc)
+
+**22.04.2021** 
+- Finished script 
+- Testing
+
+**27.04.2021**
+- Prepared report for review
+- Tidyed up git repo
