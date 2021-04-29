@@ -63,3 +63,6 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 **27.04.2021**
 - Prepared report for review
 - Tidyed up git repo
+
+**28.04.2021**
+- Ran new tests after feedback
