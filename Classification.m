@@ -22,7 +22,7 @@ result = imfuse(orange, result,'diff');
 imshow(result)
 
 %%Defines a morphological structuring object
-rough = strel('diamond',5);
+rough = strel('diamond',6);
 
 %%Perform morphological opening on the image
 roughProcessed = imopen(result,rough);
