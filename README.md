@@ -66,3 +66,6 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 
 **28.04.2021**
 - Ran new tests after feedback
+
+**30.04.2021**
+- Finihed project draft 
