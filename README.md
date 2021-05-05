@@ -69,3 +69,9 @@ Group 2 Tormod Müller, Sander Island, Karin Pettersen, Aleksander Aaboen and Ma
 
 **30.04.2021**
 - Finihed project draft 
+
+**04.05.2021**
+- Responding to report feedback
+
+**05.05.2021**
+- Responding to report feedback
